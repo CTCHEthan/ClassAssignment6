@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1539299847 source:c:\users\eh276017\desktop\tempconvert2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tempConvert.h"
+
+1539299781 c:\users\eh276017\desktop\tempconvert2\tempconvert.h
+
